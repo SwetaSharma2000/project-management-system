@@ -21,6 +21,16 @@ A full-stack project management system built with Node.js, Express, PostgreSQL, 
 
 ---
 
+## Screenshots
+
+### Projects Page
+![Projects Page](screenshots/project-page.png)
+
+### Task Detail Page
+![Task Page](screenshots/task-page.png)
+
+---
+
 ## Project Structure
 
 mini-project-management/
